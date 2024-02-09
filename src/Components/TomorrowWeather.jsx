@@ -1,4 +1,5 @@
-// Qui volevo creare una sezione per il meteo dei giorni successivi ma purtroppo non mi funzionava l'API e mi tiro
+// Qui volevo creare una sezione per il meteo dei giorni successivi ma purtroppo non mi funzionava l'API e mi tornava l'errore che ti avevo
+// mandato su Discord, alla fine ho riconvertito il componente per mostrare le condizioni dell'aria.
 
 import { useEffect, useState } from "react";
 import Card from "react-bootstrap/Card";
