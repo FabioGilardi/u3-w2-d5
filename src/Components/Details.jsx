@@ -19,7 +19,7 @@ const Details = () => {
             setShowToday(!showToday);
           }}
         >
-          {!showToday ? "Show" : "Close"}
+          {!showToday ? "Show Me" : "Close"}
           {!showToday ? (
             <i className="bi bi-caret-down-fill ms-1"></i>
           ) : (
